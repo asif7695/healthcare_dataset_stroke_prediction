@@ -1,0 +1,2 @@
+Gender,Age,"Hypertension (1 = Yes, 0 = No)","Heart Disease (1 = Yes, 0 = No)",Ever Married,Work Type,Residence Type,Average Glucose Level,BMI,Smoking Status,output,timestamp
+Male,1,,,,Private,,50,10,formerly smoked,,2026-01-20 05:30:09.142648
